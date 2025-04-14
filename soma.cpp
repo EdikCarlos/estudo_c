@@ -9,3 +9,5 @@ int main() {
     cout << soma << endl;
     return 0;
 }
+
+// Para compilar g++ main.cpp -o NOME_DO_EXECUTAVEL
